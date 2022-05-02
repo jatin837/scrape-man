@@ -1,0 +1,3 @@
+[submodule "hackfeeds"]
+	path = hackfeeds
+	url = https://github.com/jatin837/hackfeeds
